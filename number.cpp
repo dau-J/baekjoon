@@ -1,1 +1,0 @@
-/* baekjoon c++ language solution*/
